@@ -9,4 +9,3 @@ Nov. 16, 2017.
 
 Greating a new branch is quick and simple.
 
-bug test
