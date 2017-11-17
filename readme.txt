@@ -8,4 +8,5 @@ Creating a new branch is quick
 Nov. 16, 2017.
 
 Greating a new branch is quick and simple.
+new branch dev
 
